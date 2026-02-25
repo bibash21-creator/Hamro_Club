@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+python-jose
+pydantic
+python-multipart
+pytest
+black
+pre-commit
+
